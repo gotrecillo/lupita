@@ -1,0 +1,14 @@
+# dependencies
+node_modules
+
+# logs & pids
+*.log
+pids
+
+# coverage
+.nyc_output
+coverage
+
+# Editors
+**/.idea
+**/.#*
